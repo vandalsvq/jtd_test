@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Планы развития
+title: План развития
 nav_order: 21
 ---
 
