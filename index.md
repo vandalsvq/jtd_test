@@ -3,4 +3,4 @@ title: Описание
 layout: home
 ---
 
-![Основная страница](./img/Main%20page.png)
+![Основная страница](./img/main_page.png)
