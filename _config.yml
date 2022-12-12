@@ -7,6 +7,8 @@ url: https://vandalsvq.github.io/scheduler
 aux_links:
   Github: https://github.com/vandalsvq/scheduler
 
+lang: ru-RU
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
