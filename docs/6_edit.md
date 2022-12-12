@@ -5,6 +5,16 @@ nav_order: 6
 ---
 
 # Редактирование событий
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 Событие в планировщике может быть создано несколькими способами:
 

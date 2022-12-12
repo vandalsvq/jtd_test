@@ -5,6 +5,16 @@ nav_order: 5
 ---
 
 # Интеграция с Google Calendar
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 Синхронизация с Google calendar выполняется в двустороннем режиме.
 

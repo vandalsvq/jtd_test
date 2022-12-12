@@ -5,6 +5,16 @@ nav_order: 2
 ---
 
 # Внешний вид
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 Основная страница “Планировщика” выглядит следующим образом:
 

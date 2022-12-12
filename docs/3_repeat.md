@@ -8,6 +8,10 @@ nav_order: 3
 {: .no_toc }
 
 <details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
 </details>
