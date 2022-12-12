@@ -5,10 +5,8 @@
 - Разработчик: Анисков Александр ([vandalsvq](https://github.com/vandalsvq))
 - [Документация](https://vandalsvq.github.io/scheduler/) по расширению
 
-## Внешний вид
-
 ![Основная страница](./img/main_page.png)
 
-## Благодарности
+## Ссылки
 
 - Шаблон: [Just the docs](https://just-the-docs.github.io/just-the-docs)
