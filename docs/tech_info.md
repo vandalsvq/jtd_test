@@ -1,3 +1,9 @@
+---
+layout: default
+title: Техническая информация
+nav_exclude: true
+---
+
 {: .warning }
 > ВНИМАНИЕ
 >
